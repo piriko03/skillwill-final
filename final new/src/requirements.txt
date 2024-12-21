@@ -1,0 +1,8 @@
+Django==5.1.4
+djangorestframework
+Pillow
+django-filter
+djangorestframework-simplejwt
+drf-yasg
+pytest
+pytest-django
